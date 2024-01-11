@@ -1,0 +1,1 @@
+The Employee Management System is a web-based application designed to streamline and simplify the process of managing employees within an organization. This system leverages Spring Boot as the backend framework and SQLite as the database management system. It provides essential features such as user registration, login, and data storage to efficiently manage employee information.
